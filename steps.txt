@@ -1,0 +1,5 @@
+Git collaboration:-
+a.Create repo in gitHub
+b.Create folder in local system-->open this folder in VS-Code-->In terminal type --> git init
+c.git remote add origin <URL> (URL is the github repo URL)
+d.ACP(add,commit,push)
