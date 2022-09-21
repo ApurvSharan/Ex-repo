@@ -7,3 +7,9 @@ d.ACP(add,commit,push)
 
 Branches:-
 example:- project:-1.Navbar 2.Product page 3.Cart Page
+a.git branch <branch_name>-->creating branch
+b.git checkout <branch_name>-->switching to the created branch
+c.git add .
+d.git commit -m"msg"
+e.git push origin <branch_name>-->pushing the changes to the created branch
+
